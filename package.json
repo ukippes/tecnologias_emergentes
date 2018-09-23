@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ulises Kippers",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
